@@ -18,3 +18,6 @@ Este é um protótipo de sistema web feito com Flask que simula um processo de r
 * ```reset_email.html```
 * ```reset_sms.html```
 * ```reset_double.html```
+## 📦 Rodando o Container
+* ```docker-compose build```
+* ```docker-compose up```
